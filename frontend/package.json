@@ -1,0 +1,24 @@
+{
+  "name": "chrome-html-to-pdf-generator",
+  "description": " A comprehensive npm package that allows you to quickly and easily generate PDF documents from HTML using the Chrome rendering engine. This package includes a set of professionally designed HTML templates for creating letters, as well as a simple API for generating PDF files from your custom HTML.",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@mdi/js": "^7.1.96",
+    "mdi-vue": "^3.0.13",
+    "vue": "^3.2.45",
+    "vue-router": "^4.1.6"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.0.0",
+    "typescript": "^4.9.3",
+    "vite": "^4.1.2",
+    "vue-tsc": "^1.0.24"
+  }
+}
