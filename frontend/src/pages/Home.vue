@@ -8,7 +8,7 @@
       <img src="/lga.png" class="logo" alt="Vite logo" />
     </a>
   </div>
-  <h1> HTML to PDF Generator </h1>
+  <h1> HTML to PDF Generator Benoit </h1>
   <div class='subtext'> <span class='highlight'>Effortlessly</span> convert your HTML documents into <span class='highlight'>professional-grade</span> PDF files with our <span class='highlight'>easy-to-use</span> PDF generation tool.</div>
   <div class='examples'>
     <router-link class='example' to="/example">Single Page</router-link>
